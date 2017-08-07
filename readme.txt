@@ -5,3 +5,5 @@ distributed under the GPL
 Git has a mutable index called stage.
 
 dev branch edit
+
+Creating a new branch &
